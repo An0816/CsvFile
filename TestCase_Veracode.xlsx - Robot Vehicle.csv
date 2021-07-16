@@ -1,0 +1,12 @@
+GroupName,ProjectName,GitUrl,Tag
+Robot Vehicle,Mavlink/mavlink,https://github.com/mavlink/mavlink,
+Robot Vehicle,Mavlink/qgroundcontrol,https://github.com/mavlink/qgroundcontrol,
+Robot Vehicle,PX4/PX4-Autopilot,https://github.com/PX4/PX4-Autopilot,
+Robot Vehicle,PX4/PX4-Bootloader,https://github.com/PX4/PX4-Bootloader,
+Robot Vehicle,PX4/NuttX,https://github.com/PX4/NuttX,
+Robot Vehicle,Ros/ros,https://github.com/ros/ros,
+Robot Vehicle,ChibiOS/chibiOS,https://github.com/ChibiOS/ChibiOS,
+Robot Vehicle,Ardupilot/ardupilot,https://github.com/ArduPilot/ardupilot,
+Robot Vehicle,Ardupilot/missionplanner,https://github.com/ArduPilot/MissionPlanner,
+Robot Vehicle,Ardupilot/pymavlink,https://github.com/ArduPilot/pymavlink,
+Robot Vehicle,Librepilot/librepilot,https://github.com/librepilot/LibrePilot,
