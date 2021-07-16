@@ -1,6 +1,6 @@
 "GroupName
 (language)","ProjectName
-(OSS ID)",GitUrl,Tag,순서,출처,분석 결과 url (래브라도 1.5),OSS ID
+(OSS ID)",GitUrl,Tag,?�서,출처,분석 결과 url (?�브?�도 1.5),OSS ID
 Github Ranking,Java/apache/tomcat,https://github.com/apache/tomcat.git,,1,TB_VULN_FUNC_1,https://labrador.iotcube.com/iotcubedemo/workspaces/161846882251700127/projects/161846895826300128/scans/161846914450000132,P4867
 Github Ranking,Java/apache/ofbiz,https://github.com/apache/ofbiz.git,,2,TB_VULN_FUNC_1,https://labrador.iotcube.com/iotcubedemo/workspaces/161846882251700127/projects/161846947537600133/scans/161846951853200135,P11566
 Github Ranking,Javascript/nodejs/node,https://github.com/nodejs/node.git,,3,TB_VULN_FUNC_1,https://labrador.iotcube.com/iotcubedemo/workspaces/161846882251700127/projects/161846974591900136/scans/161846976682000138,P11798
@@ -8,7 +8,7 @@ Github Ranking,Javascript/bclinkinbeard/angular,https://github.com/bclinkinbeard
 Github Ranking,Python/python/cpython,https://github.com/python/cpython.git ,,5,TB_VULN_FUNC_1,https://labrador.iotcube.com/iotcubedemo/workspaces/161846882251700127/projects/161847007284600142/scans/161847009587800144,P289
 Github Ranking,Python/python/imaging/Pillow,https://github.com/python-imaging/Pillow.git,,6,TB_VULN_FUNC_1,https://labrador.iotcube.com/iotcubedemo/workspaces/161846882251700127/projects/161847025391600145/scans/161847041286500149,P11569
 Github Ranking,Go/moby/moby,https://github.com/moby/moby.git,,7,TB_VULN_FUNC_1,https://labrador.iotcube.com/iotcubedemo/workspaces/161846882251700127/projects/161847051116000150/scans/161847052636600152,P141
-Github Ranking,Go/fatedier/frp,https://github.com/fatedier/frp.gitt,,8,STAR COUNT 높은순,https://labrador.iotcube.com/iotcubedemo/workspaces/161846882251700127/projects/161847079832200153/scans/161847081980500155,P248
+Github Ranking,Go/fatedier/frp,https://github.com/fatedier/frp.gitt,,8,STAR COUNT ?��???https://labrador.iotcube.com/iotcubedemo/workspaces/161846882251700127/projects/161847079832200153/scans/161847081980500155,P248,
 Github Ranking,C++/postgres/postgres,https://github.com/postgres/postgres.git,,9,TB_VULN_FUNC_1,https://labrador.iotcube.com/iotcubedemo/workspaces/161846882251700127/projects/161847089136700156/scans/161847091184000158,P659
 Github Ranking,C++/openssl/openssl,https://github.com/openssl/openssl.git,,10,TB_VULN_FUNC_1,https://labrador.iotcube.com/iotcubedemo/workspaces/161846882251700127/projects/161847095752200159/scans/161847098060700161,P1106
 Github Ranking,Ruby/blackxored/exist,https://github.com/blackxored/exist.git,,11,TB_VULN_FUNC_1,https://labrador.iotcube.com/iotcubedemo/workspaces/161846882251700127/projects/161847119589800164/scans/161847123455400166,P11563
@@ -18,10 +18,10 @@ Github Ranking,Typescript/ant/design/ant,https://github.com/ant-design/ant-desig
 Github Ranking,PHP/tanisjr/nodeServer,https://github.com/tanisjr/nodeServer.git,,15,TB_VULN_LIBRARY,https://labrador.iotcube.com/iotcubedemo/workspaces/161846882251700127/projects/161847181551400190/scans/161848288213600261,P12759
 Github Ranking,PHP/owncloud/core,https://github.com/owncloud/core.git,,16,TB_VULN_FUNC_1,https://labrador.iotcube.com/iotcubedemo/workspaces/161846882251700127/projects/161847192143900197/scans/161847194477300199,P2630
 Github Ranking,C#/mono/mono,https://github.com/mono/mono.git,,17,TB_VULN_FUNC_1,https://labrador.iotcube.com/iotcubedemo/workspaces/161846882251700127/projects/161847199951100200/scans/161847201877500202,P1975
-Github Ranking,C#/shadowsocks/shadowsocks,https://github.com/shadowsocks/shadowsocks-windows.gitt,,18,STAR COUNT 높은순,https://labrador.iotcube.com/iotcubedemo/workspaces/161846882251700127/projects/161847227587100203/scans/161847229281200205,P158
+Github Ranking,C#/shadowsocks/shadowsocks,https://github.com/shadowsocks/shadowsocks-windows.gitt,,18,STAR COUNT ?��???https://labrador.iotcube.com/iotcubedemo/workspaces/161846882251700127/projects/161847227587100203/scans/161847229281200205,P158,
 Github Ranking,C/postgres/postgres,https://github.com/postgres/postgres.git ,,19,TB_VULN_FUNC_1,https://labrador.iotcube.com/iotcubedemo/workspaces/161846882251700127/projects/161847237181600206/scans/161847240396400208,P2915
 Github Ranking,C/openssl/openssl,https://github.com/openssl/openssl.git,,20,TB_VULN_FUNC_1,https://labrador.iotcube.com/iotcubedemo/workspaces/161846882251700127/projects/161847244457800209/scans/161847246467500211,P1106
-,,,,,Tag : alpha/beta 빼고 최신 tag 선정,,
+,,,,,Tag : alpha/beta 빼고 최신 tag ?�정,,
 ,,,,,,,
 ,,,,,,,
 ,,,,,,,
@@ -41,6 +41,6 @@ Github Ranking,C/openssl/openssl,https://github.com/openssl/openssl.git,,20,TB_V
 ,,,,,,,
 ,,,,,,,참고: https://docs.google.com/spreadsheets/d/1UFQksRCxV5ZeUYgV5cFK4cpWmChiVx1scblVhkgCa7k/edit?usp=sharing
 ,,,,,,,
-,,,,,,,gradle build 하면 에러 발생 . snyk monitor 해도 에러 발생
-,,,,,,,snyk monitor 실행시 에러 발생
-,,,,,,,(ymshin) 분석 다시해 주세요. 라이브러리에 뭔가 나와야 함. 
+,,,,,,,gradle build ?�면 ?�러 발생 . snyk monitor ?�도 ?�러 발생
+,,,,,,,snyk monitor ?�행???�러 발생
+,,,,,,,(ymshin) 분석 ?�시??주세?? ?�이브러리에 뭔�? ?��????? 

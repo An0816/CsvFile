@@ -3,19 +3,19 @@
 (component name)",GitUrl,Tag,language,,,
 TestCase from Marketing,Executive Pick/mongodb,https://github.com/mongodb/mongo,,C++,3,,
 TestCase from Marketing,Executive Pick/jenkinsci,https://github.com/jenkinsci/jenkins,,Java,4,,"ymshin comment: 
-컴포넌트 탐지를 라이브러리와 소스(함수/파일) 기반으로 탐지하는데, 
-현재 소스(함수/파일)  기반은 centris 적용 후(7월 내)에 진행 했으면 좋겠어요. 
+컴포?�트 ?��?�??�이브러리�? ?�스(?�수/?�일) 기반?�로 ?��??�는?? 
+?�재 ?�스(?�수/?�일)  기반?� centris ?�용 ??7??????진행 ?�으�?좋겠?�요. 
 
-따라서 라이브러리 기반으로 탐지할 수 있는 랭귀지 3종 (java/python/javascript) 에 대해서만 진행"
+?�라???�이브러�?기반?�로 ?��??????�는 ???지 3�?(java/python/javascript) ???�?�서�?진행"
 TestCase from Marketing,Executive Pick/redis,https://github.com/redis/redis,,C,5,,
 TestCase from Marketing,iotcube.net/Pillow,https://github.com/python-pillow/Pillow,,Python,11,,
 TestCase from Marketing,git top/bootstrap,https://github.com/twbs/bootstrap,,JavaScript,16,,
-TestCase from Marketing,language별 상위(Scala)/spark,https://github.com/apache/spark,,Scala,18,,
+TestCase from Marketing,language�??�위(Scala)/spark,https://github.com/apache/spark,,Scala,18,,
 TestCase from Marketing,CTO Pick/django,https://github.com/django/django,,Python,22,,
 TestCase from Marketing,DB Popular 3rd-party/zlib,https://github.com/madler/zlib,,C,23,,
 TestCase from Marketing,DB Popular 3rd-party/protobuf,https://github.com/protocolbuffers/protobuf,,C++,24,,
 TestCase from Marketing,DB Popular 3rd-party/openssl,https://github.com/openssl/openssl.git,,C,25,,
-TestCase from Marketing,iotcube.net/android,https://github.com/iotcube/API,,,1,임의로 추가,
+TestCase from Marketing,iotcube.net/android,https://github.com/iotcube/API,,,1,?�의�?추�?,
 TestCase from Marketing,iotcube.net/linux,https://github.com/torvalds/linux,,C,2,,
 TestCase from Marketing,Executive Pick/mongodb,https://github.com/mongodb/mongo,,C++,3,,
 TestCase from Marketing,Executive Pick/jenkinsci,https://github.com/jenkinsci/jenkins,,Java,4,,
@@ -28,11 +28,11 @@ TestCase from Marketing,iotcube.net/keystone,https://github.com/keystonejs/keyst
 TestCase from Marketing,iotcube.net/Pillow,https://github.com/python-pillow/Pillow,,Python,11,,
 TestCase from Marketing,medical enterprise/openmrs-core,https://github.com/openmrs/openmrs-core,,Java,12,,
 TestCase from Marketing,manufacture enterprice/arduino,https://github.com/arduino/Arduino,,Java,13,,
-TestCase from Marketing,language별 상위(Ruby)/rails,https://github.com/rails/rails,,Ruby,14,,
-TestCase from Marketing,language별 상위(PHP)/laravel,https://github.com/laravel/laravel,,PHP,15,,
+TestCase from Marketing,language�??�위(Ruby)/rails,https://github.com/rails/rails,,Ruby,14,,
+TestCase from Marketing,language�??�위(PHP)/laravel,https://github.com/laravel/laravel,,PHP,15,,
 TestCase from Marketing,git top/bootstrap,https://github.com/twbs/bootstrap,,JavaScript,16,,
-TestCase from Marketing,language별 상위(Go)/go,https://github.com/golang/go,,Go,17,,
-TestCase from Marketing,language별 상위(Scala)/spark,https://github.com/apache/spark,,Scala,18,,
+TestCase from Marketing,language�??�위(Go)/go,https://github.com/golang/go,,Go,17,,
+TestCase from Marketing,language�??�위(Scala)/spark,https://github.com/apache/spark,,Scala,18,,
 TestCase from Marketing,git top/flutter,https://github.com/flutter/flutter,,Dart,19,,
 TestCase from Marketing,git top/tensorflow,https://github.com/tensorflow/tensorflow,,C++,20,,
 TestCase from Marketing,automobile enterprise/apollo,https://github.com/ApolloAuto/apollo,,C++,21,,
@@ -41,7 +41,7 @@ TestCase from Marketing,DB Popular 3rd-party/zlib,https://github.com/madler/zlib
 TestCase from Marketing,DB Popular 3rd-party/protobuf,https://github.com/protocolbuffers/protobuf,,C++,24,,
 TestCase from Marketing,DB Popular 3rd-party/openssl,https://github.com/openssl/openssl.git,,C,25,,
 TestCase from Marketing,etc/riot,https://github.com/riot/riot,,JavaScript,,,
-TestCase from Marketing,iotcube.net/android,https://github.com/iotcube/API,,,1,임의로 추가,
+TestCase from Marketing,iotcube.net/android,https://github.com/iotcube/API,,,1,?�의�?추�?,
 TestCase from Marketing,iotcube.net/linux,https://github.com/torvalds/linux,,C,2,,
 TestCase from Marketing,etc/mongodb,https://github.com/mongodb/mongo,,C++,3,,
 TestCase from Marketing,etc/jenkins,https://github.com/jenkinsci/jenkins,,Java,4,,
@@ -54,11 +54,11 @@ TestCase from Marketing,iotcube.net/keystone,https://github.com/keystonejs/keyst
 TestCase from Marketing,iotcube.net/Pillow,https://github.com/python-pillow/Pillow,,Python,11,,
 TestCase from Marketing,medical enterprise/openmers-core,https://github.com/openmrs/openmrs-core,,Java,12,,
 TestCase from Marketing,manufacture enterprise/arduino,https://github.com/arduino/Arduino,,Java,13,,
-TestCase from Marketing,language별 상위(Ruby)/rails,https://github.com/rails/rails,,Ruby,14,,
-TestCase from Marketing,language별 상위(JS)/laravel,https://github.com/laravel/laravel,,PHP,15,,
+TestCase from Marketing,language�??�위(Ruby)/rails,https://github.com/rails/rails,,Ruby,14,,
+TestCase from Marketing,language�??�위(JS)/laravel,https://github.com/laravel/laravel,,PHP,15,,
 TestCase from Marketing,git top/bootstrap,https://github.com/twbs/bootstrap,,JavaScript,16,,
-TestCase from Marketing,language별 상위(Go)/go,https://github.com/golang/go,,Go,17,,
-TestCase from Marketing,language별 상위(Scala)/spark,https://github.com/apache/spark,,Scala,18,,
+TestCase from Marketing,language�??�위(Go)/go,https://github.com/golang/go,,Go,17,,
+TestCase from Marketing,language�??�위(Scala)/spark,https://github.com/apache/spark,,Scala,18,,
 TestCase from Marketing,git top/flutter,https://github.com/flutter/flutter,,Dart,19,,
 TestCase from Marketing,git top/tensorflow,https://github.com/tensorflow/tensorflow,,C++,20,,
 TestCase from Marketing,automobile enterprise/apollo,https://github.com/ApolloAuto/apollo,,C++,21,,
@@ -90,7 +90,7 @@ TestCase from Marketing,etc/openssl,https://github.com/openssl/openssl.git,,C,25
 ,,,,,,,
 ,,,,,,,
 ,,,,,,,"ymshin comment: 
-컴포넌트 탐지를 라이브러리와 소스(함수/파일) 기반으로 탐지하는데, 
-현재 소스(함수/파일)  기반은 centris 적용 후(7월 내)에 진행 했으면 좋겠어요. 
+컴포?�트 ?��?�??�이브러리�? ?�스(?�수/?�일) 기반?�로 ?��??�는?? 
+?�재 ?�스(?�수/?�일)  기반?� centris ?�용 ??7??????진행 ?�으�?좋겠?�요. 
 
-따라서 라이브러리 기반으로 탐지할 수 있는 랭귀지 3종 (java/python/javascript) 에 대해서만 진행"
+?�라???�이브러�?기반?�로 ?��??????�는 ???지 3�?(java/python/javascript) ???�?�서�?진행"
